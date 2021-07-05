@@ -1,0 +1,68 @@
+.bloody-color{
+    color:red;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+body{
+    margin: 0;
+}
+
+.half-width{
+    width: 50%;
+    margin-left: 10px;
+
+}
+.button{
+    color:white;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 10px;
+    background-image: linear-gradient(cyan,orange);
+    border-radius: 5px;
+    
+}
+.img-width{
+    width: 70%;
+}
+.img-width-b{
+    width: 100%;
+        margin-left: 10px;}
+        
+ .peragraph{
+     margin-left: 10px;
+ }     
+ .display-vagavagi{
+     width: 100%;
+
+ } 
+ 
+ .symptoms{
+     width: 100%;
+     margin-left: 10%;
+     box-shadow: 10px 10px 40px gray;
+     border-radius: 5px;
+     padding: 20px;
+ }
+ .color{
+     color:blue;
+ }
+ .picture{
+     background-image: url(images/exp-bg.png);
+     background-repeat: no-repeat;
+ }
+ #border-style{
+     border-left: 7px solid;
+     border-image: linear-gradient(red,black);
+     border-image-slice: 1;
+ }
+ #box-19{
+     border-left: 7px solid;
+     border-image: linear-gradient(red,green);
+     border-image-slice: 1;
+ }
